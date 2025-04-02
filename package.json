@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttps",
+  "version": "1.0.0",
+  "description": "Learn HTTPS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeron-cap/webcrawlerhttps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeron-cap/webcrawlerhttps/issues"
+  },
+  "homepage": "https://github.com/aeron-cap/webcrawlerhttps#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
