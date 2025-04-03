@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aeron-cap/webcrawlerhttps#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0"
   }
 }
